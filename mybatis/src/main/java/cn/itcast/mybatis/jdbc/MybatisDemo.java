@@ -31,6 +31,7 @@ public class MybatisDemo {
                 sqlSession.close();
             }
             System.out.println("hello");
+            System.out.println("hello github");
         }
     }
 }
