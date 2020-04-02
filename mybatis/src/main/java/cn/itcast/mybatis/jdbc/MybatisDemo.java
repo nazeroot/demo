@@ -30,7 +30,7 @@ public class MybatisDemo {
             if (sqlSession != null) {
                 sqlSession.close();
             }
-            System.out.println("hello git");
+            System.out.println("hello");
         }
     }
 }

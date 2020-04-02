@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea8c5c49-2e37-4cde-98fc-31bfd630f82b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis/src/main/java/cn/itcast/mybatis/jdbc/MybatisDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis/src/main/java/cn/itcast/mybatis/jdbc/MybatisDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="ea8c5c49-2e37-4cde-98fc-31bfd630f82b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/mybatis/target/" />
@@ -36,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/cn/itcast/mybatis/jdbc/MybatisDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="252">
+              <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -315,14 +312,22 @@
       <option name="project" value="LOCAL" />
       <updated>1585820307783</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test push">
+      <created>1585822402800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585822402800</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18770000" />
+    <option name="totallyTimeSpent" value="19376000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="702" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="702" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -428,7 +433,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次" />
     <MESSAGE value="第二次" />
-    <option name="LAST_COMMIT_MESSAGE" value="第二次" />
+    <MESSAGE value="test push" />
+    <option name="LAST_COMMIT_MESSAGE" value="test push" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/414bed48-80ba-4a45-b49e-edcb6abe4a31/console.sql">
@@ -501,8 +507,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/cn/itcast/mybatis/jdbc/MybatisDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
+        <state relative-caret-position="252">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
