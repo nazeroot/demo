@@ -32,7 +32,6 @@ public class MybatisDemo {
             }
             System.out.println("hello");
             System.out.println("hello github");
-            System.out.println("hello github");
         }
     }
 }
